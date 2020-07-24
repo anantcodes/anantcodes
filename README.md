@@ -20,4 +20,4 @@ I am currently pursuing Btech in Computer Science Engineering from SRM Institute
 </a> &nbsp;&nbsp;
   </div>
 
-![Anant's github stats](https://github-readme-stats.vercel.app/api?username=anantcodes&show_icons=true&hide_border=True)
+
