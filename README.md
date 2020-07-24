@@ -28,6 +28,10 @@ I am currently pursuing Btech in Computer Science Engineering from SRM Institute
   <img alt="Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/googleplay.svg" />
 </a> &nbsp;&nbsp;
 
+<a href="https://medium.com/@anantcodes">
+  <img alt="Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
+</a> &nbsp;&nbsp;
+
   </div>
 
 
