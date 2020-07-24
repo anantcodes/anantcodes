@@ -24,6 +24,10 @@ I am currently pursuing Btech in Computer Science Engineering from SRM Institute
   <img alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a> &nbsp;&nbsp;
 
+<a href="https://play.google.com/store/apps/developer?id=ANANT+KANCHAN">
+  <img alt="Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/googleplay.svg" />
+</a> &nbsp;&nbsp;
+
   </div>
 
 
