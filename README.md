@@ -18,11 +18,12 @@ I am currently pursuing Btech in Computer Science Engineering from SRM Institute
 <a href="https://www.instagram.com/anant.kanchan">
   <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> &nbsp;&nbsp;
-  </div>
+ 
   
-  <a href="https://www.codechef.com/users/anantgc1">
+<a href="https://www.codechef.com/users/anantgc1">
   <img alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a> &nbsp;&nbsp;
+
   </div>
 
 
