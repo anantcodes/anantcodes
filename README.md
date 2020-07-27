@@ -7,7 +7,7 @@ I am currently pursuing Btech in Computer Science Engineering from SRM Institute
 
 - I’m looking to collaborate on **Flutter** and **Kotlin** development projects.
 - Connect with me **LinkedIn** : https://www.linkedin.com/in/anant-kanchan-0a6b57180/
-- View my **Blogs** here : https://medium.com/@anantcodes
+- View my **Blogs** here : https://medium.com/@anant4265
 - View my **Apps** on Google Play Store : https://play.google.com/store/apps/developer?id=ANANT+KANCHAN
 - **CodeChef** : https://www.codechef.com/users/anantgc1
 
@@ -28,8 +28,8 @@ I am currently pursuing Btech in Computer Science Engineering from SRM Institute
   <img alt="Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/googleplay.svg" />
 </a> &nbsp;&nbsp;
 
-<a href="https://medium.com/@anantcodes">
-  <img alt="Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
+<a href="https://medium.com/@anant4265">
+  <img alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a> &nbsp;&nbsp;
 
   </div>
