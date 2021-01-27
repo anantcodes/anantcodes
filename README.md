@@ -2,7 +2,7 @@
 
 ABOUT ME
 
-I'm Anant , a tech enthusiast , an app developer , open-source contributor and a competitive programmer.I always look forward to learn and explore .
+I'm Anant , a tech enthusiast , an app developer , an open-source contributor and a competitive programmer.I always look forward to learn and explore .
 I am currently pursuing Btech in Computer Science Engineering from SRM Institute of Science and Technology , Chennai.
 
 - I’m looking to collaborate on **Flutter** and **Kotlin** development projects.
