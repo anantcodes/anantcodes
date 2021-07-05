@@ -12,7 +12,7 @@ I am currently pursuing Btech in Computer Science Engineering from SRM Institute
 - **CodeChef** : https://www.codechef.com/users/anantgc1
 
 <div align="center">
-<a href="https://www.linkedin.com/in/anant-kanchan-0a6b57180/">
+<a href="https://www.linkedin.com/in/anantkanchan/">
   <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/anant.kanchan">
