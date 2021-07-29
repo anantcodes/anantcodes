@@ -6,7 +6,7 @@ I'm Anant , a tech enthusiast , an app developer , an open-source contributor an
 I am currently pursuing Btech in Computer Science Engineering from SRM Institute of Science and Technology, Chennai.
 
 - I’m looking to collaborate on **Flutter**, **Kotlin** and **Swift** projects.
-- Connect with me **LinkedIn** : https://www.linkedin.com/in/anantkanchan/
+- Connect with me on **LinkedIn** : https://www.linkedin.com/in/anantkanchan/
 - View my **Blogs** here : https://medium.com/@anant4265
 - View my **Apps** on Google Play Store : https://play.google.com/store/apps/developer?id=ANANT+KANCHAN
 - **CodeChef** : https://www.codechef.com/users/anantgc1
