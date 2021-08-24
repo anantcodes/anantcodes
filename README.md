@@ -62,7 +62,10 @@ I am currently pursuing Btech in Computer Science Engineering from SRM Institute
   ![](https://komarev.com/ghpvc/?username=anantcodes&color=blue)
   
 <hr>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anantcodes&&show_icons=true&count_private=true"/>
+  </div>
+<!-- |<img src="https://github-readme-streak-stats.herokuapp.com/?user=anantcodes"/>| -->
 
-|<img src="https://github-readme-stats.vercel.app/api?username=anantcodes&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anantcodes"/>|
-|---|---|
+<!-- |---|---| -->
 
