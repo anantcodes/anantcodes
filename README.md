@@ -4,7 +4,6 @@ ABOUT ME
 
 I'm Anant , a solution developer , a data analyst , an app developer , an open-source contributor and a competitive programmer. I always look forward to learn and explore.
 
-- I’m looking to collaborate on **Flutter**, **Kotlin** and **Swift** projects.
 - Connect with me on **LinkedIn** : https://www.linkedin.com/in/anantkanchan/
 - View my **Blogs** here : https://medium.com/@anant4265
 - View my **Apps** on Google Play Store : https://play.google.com/store/apps/developer?id=ANANT+KANCHAN
