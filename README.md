@@ -62,6 +62,6 @@ I'm Anant , a solution developer , a data analyst , an app developer , an open-s
 <hr>
 
 
-|<img src="https://github-readme-stats.vercel.app/api?username=anantcodes&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anantcodes"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=anantcodes&&show_icons=true&count_private=true&rank_icon=github"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anantcodes"/>|
  |---|---|
 
